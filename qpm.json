@@ -2,8 +2,9 @@
   "name": "",
   "description": "",
   "dependencies": [
+    "com.indeema.eeiot@0.0.8"
   ],
-  "license": "NONE",
+  "license": "LGPL_3_0",
   "pri_filename": "",
-  "webpage": ""
+  "webpage": "www.indeema.com"
 }
